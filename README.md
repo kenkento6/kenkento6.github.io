@@ -19,9 +19,9 @@ Under construction
 
 ### SNS
 
-- Twitter https://twitter.com/kenkento6
-- Linkedin https://www.linkedin.com/in/kento-ohtani-67385a148/
-- Blog(JP) https://kenkento.hatenadiary.com/
-- Note(JP) https://note.com/kenkento6
+- [Twitter](https://twitter.com/kenkento6)
+- [Linkedin](https://www.linkedin.com/in/kento-ohtani-67385a148/)
+- [Blog(JP)](https://kenkento.hatenadiary.com/)
+- [Note(JP)](https://note.com/kenkento6)
 
 
